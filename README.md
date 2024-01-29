@@ -9,7 +9,7 @@ This dataset has been used for evaluating the performance of Deep Learning model
 
 ## Description
 
-The Cell Counting dataset contains 200 images. Each image is a 16-bit grayscale picture in TIFF, and the associated label is the manually annotated segmentation map in PNG.
+The Cell Counting dataset contains 200 images. Each image is a 16-bit grayscale picture in TIFF, and the associated label is the manually-annotated segmentation map in PNG.
 
 - **Dataset Size**: 200 images
 - **Image Size**: 520x696 pixels

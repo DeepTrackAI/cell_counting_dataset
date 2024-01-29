@@ -1,6 +1,6 @@
 # Cell Counting Dataset
 
-Welcome to the GitHub page of DeepTrackAI's Cell Counting dataset. The repository contains the image set BBBC039v1 [Caicedo et al., 2018](https://www.biorxiv.org/node/103064.full), available from the [Broad Bioimage Benchmark Collection](https://bbbc.broadinstitute.org/BBBC039/) [Ljosa et al., Nature Methods, 2012](https://www.nature.com/articles/nmeth.2083).
+Welcome to the GitHub page of DeepTrackAI's Cell Counting dataset. The repository contains the image set BBBC039v1 [Caicedo et al., 2018](https://www.biorxiv.org/node/103064.full), available from the [Broad Bioimage Benchmark Collection](https://bbbc.broadinstitute.org/BBBC039/) and described in [Ljosa et al., Nature Methods, 2012](https://www.nature.com/articles/nmeth.2083).
 
 The data set has a total of 200 fields of view of nuclei captured with fluorescence microscopy using the Hoechst stain. The collection has around 23,000 single nuclei manually annotated to establish a ground truth collection for segmentation evaluation.
 
@@ -29,7 +29,7 @@ To use the Cell Counting dataset in your project:
 To clone the repository and access the Cell Counting dataset:
 
 ```bash
-git clone -b mnist github.com/DeepTrackAI/cell_counting_dataset
+git clone -b cell_counting_dataset github.com/DeepTrackAI/cell_counting_dataset
 cd cell_counting_dataset
 ```
 

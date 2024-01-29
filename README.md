@@ -4,12 +4,12 @@ Welcome to the GitHub page of DeepTrackAI's Cell Counting dataset. The repositor
 
 The data set has a total of 200 fields of view of nuclei captured with fluorescence microscopy using the Hoechst stain. The collection has around 23,000 single nuclei manually annotated to establish a ground truth collection for segmentation evaluation.
 
-This dataset has been used for evaluating the performance of Deep Learning models. More details of the evaluation framework can be found in this [bioRxiv preprint by Caicedo et al. 2018](https://www.biorxiv.org/node/103064.full).
+This dataset has been used for evaluating the performance of Deep Learning models. More details of the evaluation framework can be found in this [bioRxiv preprint by Caicedo et al., 2018](https://www.biorxiv.org/node/103064.full).
 
 
 ## Description
 
-The Cell Counting dataset contains 200 images. Each image is a 16-bit grayscale picture in TIFF, and the associated label is the manually-annotated segmentation map in PNG.
+The Cell Counting dataset contains 200 images. Each image is a 16-bit grayscale picture in TIFF, and the associated label is the manually annotated segmentation map in PNG.
 
 - **Dataset Size**: 200 images
 - **Image Size**: 520x696 pixels

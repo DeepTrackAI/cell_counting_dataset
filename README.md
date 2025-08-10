@@ -5,7 +5,7 @@
 This DeepTrackAI repository provides a copy of the **BBBC039v1** dataset  
 [Caicedo et al., Cytometry Part A, 2019](https://doi.org/10.1002/cyto.a.23863),  
 available from the [Broad Bioimage Benchmark Collection (BBBC)](https://bbbc.broadinstitute.org/BBBC039/)  
-[Ljosa et al., Nature Methods, 2012](https://doi.org/10.1038/nmeth.2083).
+([Ljosa et al., Nature Methods, 2012](https://doi.org/10.1038/nmeth.2083)).
 
 The dataset contains fluorescence microscopy images of Hoechst-stained nuclei, intended for segmentation and cell counting benchmarking.
 

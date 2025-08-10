@@ -7,7 +7,7 @@ This DeepTrackAI repository provides a copy of the **BBBC039v1** dataset
 available from the [Broad Bioimage Benchmark Collection (BBBC)](https://bbbc.broadinstitute.org/BBBC039/)  
 ([Ljosa et al., Nature Methods, 2012](https://doi.org/10.1038/nmeth.2083)).
 
-The dataset contains fluorescence microscopy images of Hoechst-stained nuclei, intended for segmentation and cell counting benchmarking.
+The dataset contains fluorescence microscopy images of Hoechst-stained nuclei of U2OS cells, intended for segmentation and cell counting benchmarking.
 
 The collection includes 200 fields of view containing approximately 23,000 manually annotated nuclei, providing a high-quality ground truth for evaluating image segmentation methods.
 
@@ -26,7 +26,7 @@ The collection includes 200 fields of view containing approximately 23,000 manua
 
 ## Original Source
 
-- **Title**: BBBC039v1 – Nuclei Segmentation in Diverse Cell Types  
+- **Title**: BBBC039 – Nuclei of U2OS cells in a chemical screen
 - **Authors**: Juan C. Caicedo, et al.
 - **Source**: [Broad Bioimage Benchmark Collection – BBBC039v1](https://bbbc.broadinstitute.org/BBBC039/)  
 - **License**: [CC0 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)

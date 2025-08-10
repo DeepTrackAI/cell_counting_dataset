@@ -27,7 +27,7 @@ The collection includes 200 fields of view containing approximately 23,000 manua
 ## Original Source
 
 - **Title**: BBBC039v1 – Nuclei Segmentation in Diverse Cell Types  
-- **Authors**: Juan C. Caicedo, et al. (2019); Curtis R. Ljosa, et al. (2012)  
+- **Authors**: Juan C. Caicedo, et al.
 - **Source**: [Broad Bioimage Benchmark Collection – BBBC039v1](https://bbbc.broadinstitute.org/BBBC039/)  
 - **License**: [CC0 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
 

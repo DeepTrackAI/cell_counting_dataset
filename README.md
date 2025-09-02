@@ -17,12 +17,17 @@ The dataset contains fluorescence microscopy images of Hoechst-stained nuclei of
 
 ## Original Source
 
-- **Title**: BBBC039 – Nuclei of U2OS cells in a chemical screen
-- **Authors**: Juan C. Caicedo, et al.
-- **Source**: [Broad Bioimage Benchmark Collection – BBBC039v1](https://bbbc.broadinstitute.org/BBBC039/)  
-- **License**: [CC0 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
+- **Title**: BBBC039v1 — Nuclei of U2OS cells in a chemical screen
+- **Authors**: Caicedo et al.  
+- **Source**: [BBBC039 dataset page](https://bbbc.broadinstitute.org/BBBC039/)  
+- **References**:  
+  - Caicedo J.C. et al. *Cytometry Part A*, 95(5): 473–485 (2019).  
+    [DOI: 10.1002/cyto.a.23863](https://doi.org/10.1002/cyto.a.23863)  
+  - Ljosa V. et al. *Nature Methods*, 9: 637 (2012).  
+    [DOI: 10.1038/nmeth.2083](https://doi.org/10.1038/nmeth.2083)  
+- **License**: [Creative Commons 1.0 Universal (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-If you use this dataset in your research, please follow the original licensing terms and cite the original publications.
+If you use this dataset in your research, please follow the licensing requirements and properly attribute the original authors.
 
 ---
 

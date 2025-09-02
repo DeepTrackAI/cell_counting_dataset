@@ -2,25 +2,16 @@
 
 ## Overview
 
-This DeepTrackAI repository provides a copy of the **BBBC039v1** dataset  
-[Caicedo et al., Cytometry Part A, 2019](https://doi.org/10.1002/cyto.a.23863),  
-available from the [Broad Bioimage Benchmark Collection (BBBC)](https://bbbc.broadinstitute.org/BBBC039/)  
-([Ljosa et al., Nature Methods, 2012](https://doi.org/10.1038/nmeth.2083)).
+This DeepTrackAI repository provides a copy of the **BBBC039v1** dataset [Caicedo et al., Cytometry Part A, 2019](https://doi.org/10.1002/cyto.a.23863), available from the [Broad Bioimage Benchmark Collection (BBBC)](https://bbbc.broadinstitute.org/BBBC039/) ([Ljosa et al., Nature Methods, 2012](https://doi.org/10.1038/nmeth.2083)).
 
 The dataset contains fluorescence microscopy images of Hoechst-stained nuclei of U2OS cells, intended for segmentation and cell counting benchmarking.
 
-The collection includes 200 fields of view containing approximately 23,000 manually annotated nuclei, providing a high-quality ground truth for evaluating image segmentation methods.
-
 ### Summary
-
 - **Number of images**: 200  
 - **Approximate nuclei count**: 23,000  
 - **Image size**: 520 × 696 pixels  
-- **Format**:  
-  - Images: 16-bit grayscale TIFF  
-  - Labels: Segmentation masks (PNG)  
-- **Color**: Grayscale  
-- **Annotations**: Binary masks indicating nuclei locations
+- **Image format**: 16-bit grayscale TIFF  
+- **Labels**: 8-bit RGB PNG (segmentation masks)
 
 ---
 

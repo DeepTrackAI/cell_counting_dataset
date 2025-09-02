@@ -33,9 +33,18 @@ If you use this dataset in your research, please follow the licensing requiremen
 
 ```bash
 /cell_counting_dataset
-├── images/            # Raw 16-bit grayscale TIFF images
-└── labels/            # Segmentation masks (PNG)
+└── cell_nuclei/
+    ├── images/        # Raw microscopy images
+    │   ├── <filename_1>.tif
+    │   ├── <filename_2>.tif
+    │   └── ...
+    └── labels/        # Segmentation masks
+        ├── <filename_1>.png
+        ├── <filename_2>.png
+        └── ...
 ```
+
+Each filename in `images/` has a corresponding segmentation mask in `labels/` with the same basename.
 
 ---
 

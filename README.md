@@ -63,9 +63,6 @@ cd cell_counting_dataset
 If you use this dataset, please cite both the BBBC039v1 dataset and the reference articles as follows:  
 *"We used image set BBBC039v1 (Caicedo et al., Cytometry Part A, 2019), available from the Broad Bioimage Benchmark Collection (Ljosa et al., Nature Methods, 2012)."*
 
-### Cite the dataset
-
-
 ### Cite the reference articles:
 Caicedo JC, et al. *Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images.* Cytometry Part A 95(9): 952-965 (2019). [DOI: 10.1002/cyto.a.23863](https://doi.org/10.1002/cyto.a.23863)  
 

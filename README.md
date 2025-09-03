@@ -20,10 +20,10 @@ The dataset contains fluorescence microscopy images of Hoechst-stained nuclei of
 - **Title**: BBBC039v1 — Nuclei of U2OS cells in a chemical screen
 - **Authors**: Caicedo et al.  
 - **Source**: [BBBC039 dataset page](https://bbbc.broadinstitute.org/BBBC039/)  
-- **References**:  
+- **Reference articles**:  
   - Caicedo J.C. et al. *Cytometry Part A*, 95(5): 473–485 (2019). [DOI: 10.1002/cyto.a.23863](https://doi.org/10.1002/cyto.a.23863)  
   - Ljosa V. et al. *Nature Methods*, 9: 637 (2012). [DOI: 10.1038/nmeth.2083](https://doi.org/10.1038/nmeth.2083)  
-- **License**: [Creative Commons 1.0 Universal (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
+- **License**: [Creative Commons Zero 1.0 Universal (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 If you use this dataset in your research, please follow the licensing requirements and properly attribute the original authors.
 
@@ -60,11 +60,14 @@ cd cell_counting_dataset
 
 ## Attribution
 
-When using this replication dataset, please cite the original dataset as follows:  
+If you use this dataset, please cite both the BBBC039v1 dataset and the reference articles as follows:  
 *"We used image set BBBC039v1 (Caicedo et al., Cytometry Part A, 2019), available from the Broad Bioimage Benchmark Collection (Ljosa et al., Nature Methods, 2012)."*
 
-### Cite the papers:
-Caicedo JC, et al. *Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images.* Cytometry Part A 95(9): 952-965 (2019). [https://doi.org/10.1002/cyto.a.23863](https://doi.org/10.1002/cyto.a.23863)  
+### Cite the dataset
+
+
+### Cite the reference articles:
+Caicedo JC, et al. *Evaluation of Deep Learning Strategies for Nucleus Segmentation in Fluorescence Images.* Cytometry Part A 95(9): 952-965 (2019). [DOI: 10.1002/cyto.a.23863](https://doi.org/10.1002/cyto.a.23863)  
 
 ```bibtex
 @article{caicedo2019evaluation,
@@ -80,7 +83,7 @@ Caicedo JC, et al. *Evaluation of Deep Learning Strategies for Nucleus Segmentat
 }
 ```
 
-Ljosa V, et al. *Annotated high-throughput microscopy image sets for validation.* Nature Methods 9: 637–637 (2012). [https://doi.org/10.1038/nmeth.2083](https://doi.org/10.1038/nmeth.2083)  
+Ljosa V, et al. *Annotated high-throughput microscopy image sets for validation.* Nature Methods 9: 637–637 (2012). [DOI: 10.1038/nmeth.2083](https://doi.org/10.1038/nmeth.2083)  
 
 ```bibtex
 @article{ljosa2012annotated,
@@ -100,4 +103,4 @@ Ljosa V, et al. *Annotated high-throughput microscopy image sets for validation.
 
 ## License
 
-This replication dataset is shared under the **CC0 1.0 Public Domain Dedication**, following the original licensing terms.
+This replication dataset is shared under the [Creative Commons Zero 1.0 Universal (CC0) License](https://creativecommons.org/publicdomain/zero/1.0/), consistent with the original licensing terms.
